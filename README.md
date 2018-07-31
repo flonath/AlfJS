@@ -298,7 +298,7 @@ therubyracer`.
 
 # How to Run Tests
 
-This project [Jasmine](http://pivotal.github.com/jasmine/) for BDD testing.
+This project [Jasmine](https://jasmine.github.io/) for BDD testing.
 
 1. Install Ruby 1.9.2+. There are many resources on the web can help; one of the best is [rvm](http://rvm.beginrescueend.com/).
 
